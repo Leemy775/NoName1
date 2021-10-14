@@ -36,8 +36,6 @@
 				  </button></a>
 				  <a href="NoNamept.php"><button type="button" class="list-group-item list-group-item-action">Giả Phương trình bặc 2</button></a>
 				  <a href="NoNameSX.php"><button type="button" class="list-group-item list-group-item-action">Sắp Xếp mảng</button></a>
-				  <button type="button" class="list-group-item list-group-item-action">Porta ac consectetur ac</button>
-				  <button type="button" class="list-group-item list-group-item-action" disabled>Vestibulum at eros</button>
 				</div>
 			</div>
 			
